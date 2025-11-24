@@ -1,0 +1,32 @@
+{
+  "output_file": "sowdamini_perf_classical.mp3",
+  "songs": [
+    {
+      "name": "muddugare_part1_song",
+      "url": "https://www.youtube.com/watch?v=xIF91IqKpWo",
+      "start": "0:00",
+      "end": "00:00:42",
+      "gap_after": 0,
+      "fade_in": 0,
+      "fade_out": 1
+    },
+    {
+      "name": "muddugare_part2_song",
+      "url": "https://www.youtube.com/watch?v=xIF91IqKpWo",
+      "start": "0:54",
+      "end": "00:02:11",
+      "gap_after": 0,
+      "fade_in": 0,
+      "fade_out": 1
+    },
+    {
+      "name": "muddugare_part3_song",
+      "url": "https://www.youtube.com/watch?v=xIF91IqKpWo",
+      "start": "02:24",
+      "end": "00:05:38",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 0
+    }
+  ]
+}

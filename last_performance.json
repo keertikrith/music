@@ -1,0 +1,32 @@
+{
+  "output_file": "last_performance.mp3",
+  "songs": [
+    {
+      "name": "vachindi_kada_song",
+      "url": "https://www.youtube.com/watch?v=FGsr78cCwD0",
+      "start": "0:07",
+      "end": "00:04:13",
+      "gap_after": 0,
+      "fade_in": 0,
+      "fade_out": 1
+    },
+    {
+      "name": "super_machi_song",
+      "url": "https://www.youtube.com/watch?v=3-J0nMYAGlA",
+      "start": "0:19",
+      "end": "00:04:16",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 1
+    },
+    {
+      "name": "poonakaalu_loading_song",
+      "url": "https://www.youtube.com/watch?v=4JMpHGMYm1w",
+      "start": "00:04",
+      "end": "00:03:35",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 0
+    }
+  ]
+}

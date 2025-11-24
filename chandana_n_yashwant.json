@@ -1,0 +1,32 @@
+{
+  "output_file": "chandana_n_yeshwanth_final.mp3",
+  "songs": [
+    {
+      "name": "sooseki_song",
+      "url": "https://www.youtube.com/watch?v=LH6c2bTM8p0",
+      "start": "0:00",
+      "end": "00:01:00.200",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "niluvu_addam_song",
+      "url": "https://youtu.be/fdEzDqiSC3U?si=Bqjrq5T5oDYmvUAK",
+      "start": "00:03:06.100",
+      "end": "00:03:36.400",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "idemitamma_maya_song",
+      "url": "https://www.youtube.com/watch?v=_AIzJLOXxqY",
+      "start": "00:26",
+      "end": "01:04.600",
+      "gap_after": 5,
+      "fade_in": 1,
+      "fade_out": 0
+    }
+  ]
+}

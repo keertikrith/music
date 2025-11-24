@@ -1,0 +1,68 @@
+{
+  "output_file": "team_bride_perf_v2.mp3",
+  "songs": [
+    {
+      "name": "deepika_dialogue",
+      "url": "https://www.youtube.com/shorts/aGc09e8PIBo",
+      "start": "0:00",
+      "end": "00:00:16",
+      "gap_after": 2,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "london_thumakda_song",
+      "url": "https://www.youtube.com/watch?v=J7h1HIUnYq8",
+      "start": "00:00:00",
+      "end": "00:01:00.300",
+      "gap_after": 3,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "chellakochi_song",
+      "url": "https://www.youtube.com/watch?v=9NGgI8OHTLY",
+      "start": "00:41",
+      "end": "01:21.500",
+      "gap_after": 5,
+      "fade_in": 1,
+      "fade_out": 0
+    },
+    {
+      "name": "ob_baby_song",
+      "url": "https://www.youtube.com/watch?v=6PrHsxxeaV0",
+      "start": "00:00:00",
+      "end": "1:21.400",
+      "gap_after": 3,
+      "fade_in": 1,
+      "fade_out": 0
+    },
+     {
+      "name": "pelli_kumara_song",
+      "url": "https://www.youtube.com/watch?v=8BNLsznoeBA",
+      "start": "5:47",
+      "end": "6:53",
+      "gap_after": 1,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "phoolo_ka_taaro_ka_song",
+      "url": "https://www.youtube.com/watch?v=xpfMlUlEBPU",
+      "start": "1:06",
+      "end": "1:28",
+      "gap_after": 1,
+      "fade_in": 1,
+      "fade_out": 0
+    },
+    {
+      "name": "apdi_podu_song",
+      "url": "https://www.youtube.com/watch?v=i1BqRYMFS08",
+      "start": "00:00",
+      "end": "00:54.600",
+      "gap_after": 0.15,
+      "fade_in": 1,
+      "fade_out": 0
+    }
+  ]
+}

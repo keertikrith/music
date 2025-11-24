@@ -1,0 +1,59 @@
+{
+  "output_file": "thimmapuram_family_performace.mp3",
+  "songs": [
+    {
+      "name": "hukum_part1",
+      "url": "https://www.youtube.com/watch?v=fgZ9pJbVA3c",
+      "start": "0:00",
+      "end": "00:00:09.800",
+      "gap_after": 0.15,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "hukum_part2",
+      "url": "https://www.youtube.com/watch?v=fgZ9pJbVA3c",
+      "start": "00:00:16.300",
+      "end": "00:00:19.200",
+      "gap_after": 1,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "devuda_devuda_song",
+      "url": "https://www.youtube.com/watch?v=AMXrRsotjPE",
+      "start": "0:33",
+      "end": "1:32",
+      "gap_after": 1,
+      "fade_in": 1,
+      "fade_out": 1
+    },
+    {
+      "name": "thandanaanandha_part1_song",
+      "url": "https://www.youtube.com/watch?v=S17-kYaDZX8",
+      "start": "1:55",
+      "end": "2:07.800",
+      "gap_after": 0.15,
+      "fade_in": 1,
+      "fade_out": 0
+    },
+     {
+      "name": "thandanaanandha_part2_song",
+      "url": "https://www.youtube.com/watch?v=S17-kYaDZX8",
+      "start": "2:22",
+      "end": "2:34",
+      "gap_after": 1,
+      "fade_in": 0,
+      "fade_out": 0
+    },
+    {
+      "name": "family_party_song",
+      "url": "https://www.youtube.com/watch?v=nu4bFQwFt-s",
+      "start": "0:26",
+      "end": "1:21",
+      "gap_after": 0.15,
+      "fade_in": 1,
+      "fade_out": 1
+    }
+  ]
+}

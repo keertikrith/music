@@ -1,0 +1,23 @@
+{
+  "output_file": "bhoomika.mp3",
+  "songs": [
+    {
+      "name": "tal",
+      "url": "https://www.youtube.com/shorts/8K2QZNattXU",
+      "start": "0:0",
+      "end": "0:30",
+      "gap_after": 1,
+      "fade_in": 1,
+      "fade_out": 1
+    },
+    {
+      "name": "pulsar",
+      "url": "https://www.youtube.com/watch?v=RcuGU-I6SoA",
+      "start": "0:0",
+      "end": "0:59",
+      "gap_after": 1,
+      "fade_in": 1,
+      "fade_out": 1
+    }
+  ]
+}
